@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+8/2/2017
 
 ### Student Name:  
-(First and Last Name)
+Christopher Cyrille
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I learned how to use AJAX to interact with databases and APIs.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://chriscyrille.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. AJAX files must be opened from the web server.
+2. JSON syntax is a subset of the JavaScript object notation syntax.
+3. Proxy is common technique for working around sameorigin policy with Ajax.
